@@ -1,3 +1,1 @@
-# GitLabTask
-
-This repository contains my Git lab task.
+THIS IS A README FILE OF GITLABTASK RESPETORY
